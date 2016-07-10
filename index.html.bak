@@ -41,7 +41,7 @@ DD_belatedPNG.fix('*');
 		<li><a class="bg4" href="http://www.miaov.com/2013">文化</a></li>
 		<li><a class="bg5" href="http://www.miaov.com/2013">休闲</a></li>
 	</ul>
-	<h1 title="带你去最HOT的地方"><a href="http://www.miaov.com/2013"><img src="images/logo.png" alt="100度享乐网" /></a></h1>
+	<h1 title="带你去最HOT的地方"><a href="http://www.miaov.com/2013"><img src="img/logo.png" alt="100度享乐网" /></a></h1>
 	<ul class="nav_2">
 		<li><a class="bg6" href="http://www.miaov.com/2013">烧客空间</a></li>
 		<li><a class="bg7" href="http://www.miaov.com/2013">知道分子</a></li>
@@ -93,7 +93,7 @@ DD_belatedPNG.fix('*');
 
 			<div class="section fl">
 				<h2 class="video_title">WHAT<sup>,</sup> HOT</h2>
-				<div class="video"><img src="images/play_bg.gif" /></div>
+				<div class="video"><img src="img/play_bg.gif" /></div>
 				<ul class="video_list">
 					<li><a href="http://www.miaov.com/2013">现场实录：杭州机场系统崩溃</a></li>
 					<li><a href="http://www.miaov.com/2013">现场实录：杭州机场系机场系统崩溃</a></li>
@@ -117,7 +117,7 @@ DD_belatedPNG.fix('*');
 					<div class="hot_list">
 						<ul class="tabCon1">
 							<li>
-								<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/hot_list_pic1.gif" alt="内容图片" /></a></div>
+								<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/hot_list_pic1.gif" alt="内容图片" /></a></div>
 								<div class="text">
 									<h3><a href="http://www.miaov.com/2013">御舟和涵珍园国际酒店</a></h3>
 									<p>
@@ -128,7 +128,7 @@ DD_belatedPNG.fix('*');
 								</div>
 							</li>
 							<li>
-								<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/hot_list_pic1.gif" alt="内容图片" /></a></div>
+								<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/hot_list_pic1.gif" alt="内容图片" /></a></div>
 								<div class="text">
 									<h3><a href="http://www.miaov.com/2013">御舟和涵珍园国际酒店</a></h3>
 									<p>
@@ -139,7 +139,7 @@ DD_belatedPNG.fix('*');
 								</div>
 							</li>
 							<li>
-								<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/hot_list_pic1.gif" alt="内容图片" /></a></div>
+								<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/hot_list_pic1.gif" alt="内容图片" /></a></div>
 								<div class="text">
 									<h3><a href="http://www.miaov.com/2013">御舟和涵珍园国际酒店</a></h3>
 									<p>
@@ -152,7 +152,7 @@ DD_belatedPNG.fix('*');
 						</ul>
 						<ul class="tabCon1">
 							<li>
-								<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/hot_list_pic2.gif" alt="内容图片" /></a></div>
+								<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/hot_list_pic2.gif" alt="内容图片" /></a></div>
 								<div class="text">
 									<h3><a href="http://www.miaov.com/2013">朝阳和涵珍园</a></h3>
 									<p>
@@ -163,7 +163,7 @@ DD_belatedPNG.fix('*');
 								</div>
 							</li>
 							<li>
-								<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/hot_list_pic2.gif" alt="内容图片" /></a></div>
+								<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/hot_list_pic2.gif" alt="内容图片" /></a></div>
 								<div class="text">
 									<h3><a href="http://www.miaov.com/2013">朝阳和涵珍园</a></h3>
 									<p>
@@ -174,7 +174,7 @@ DD_belatedPNG.fix('*');
 								</div>
 							</li>
 							<li>
-								<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/hot_list_pic2.gif" alt="内容图片" /></a></div>
+								<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/hot_list_pic2.gif" alt="内容图片" /></a></div>
 								<div class="text">
 									<h3><a href="http://www.miaov.com/2013">朝阳和涵珍园</a></h3>
 									<p>
@@ -185,14 +185,14 @@ DD_belatedPNG.fix('*');
 								</div>
 							</li>
 						</ul>
-						<a class="more" href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+						<a class="more" href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 					</div>
 				</div>
 			</div>
 		
 		</div>
 		
-		<div class="main_ad"><a href="http://www.miaov.com/2013"><img src="images/ad/ad1.jpg" /></a></div>
+		<div class="main_ad"><a href="http://www.miaov.com/2013"><img src="img/ad/ad1.jpg" /></a></div>
 		
 		<div class="main_wrap clear">
 			
@@ -256,12 +256,12 @@ DD_belatedPNG.fix('*');
 							<li>22</li>
 							<li>23</li>
 							<li>24</li>
-							<li>25<img class="img" info="迟到的荣誉——啦啦啦，现在还写电商网站，呃好吧，没词儿了~~" src="images/content/today2.gif" alt="" /></li>
+							<li>25<img class="img" info="迟到的荣誉——啦啦啦，现在还写电商网站，呃好吧，没词儿了~~" src="img/content/today2.gif" alt="" /></li>
 							<li>26</li>
-							<li>27<img class="img" info="这似乎是海参配燕窝，好味道~" src="images/content/hot_list_pic2.gif" alt="" /></li>
+							<li>27<img class="img" info="这似乎是海参配燕窝，好味道~" src="img/content/hot_list_pic2.gif" alt="" /></li>
 							<li>28</li>
-							<li>29<img class="img" info="气质美女，陪谁去过明天的情人节？" src="images/content/hot10.gif" alt="" /></li>
-							<li>30<img class="img" info="帅哥是谁？陪谁去过情人节？" src="images/content/hot11.gif" alt="" /></li>
+							<li>29<img class="img" info="气质美女，陪谁去过明天的情人节？" src="img/content/hot10.gif" alt="" /></li>
+							<li>30<img class="img" info="帅哥是谁？陪谁去过情人节？" src="img/content/hot11.gif" alt="" /></li>
 							<li>31</li>
 							<li class="normal">1</li>
 							<li class="normal">2</li>
@@ -275,7 +275,7 @@ DD_belatedPNG.fix('*');
 						</ol>
 						
 						<div class="today_info">
-							<img src="images/content/today2.gif" alt="" />
+							<img src="img/content/today2.gif" alt="" />
 							<div class="text">
 								<h4><strong>SAT</strong> 本日主题</h4>
 								<p>迟到的荣誉——啦啦啦，现在还写电商网站，呃好吧，没词儿了~~</p>
@@ -296,26 +296,26 @@ DD_belatedPNG.fix('*');
 				
 				<div class="pic" id="fade">
 					<ul>
-						<li><a href="http://www.miaov.com/2013/"><img src="images/content/img1.gif" /></a></li>
-						<li><a href="http://www.miaov.com/2013/#curriculum"><img src="images/content/img2.gif" /></a></li>
-						<li><a href="http://www.miaov.com/2013/#about"><img src="images/content/img3.gif" /></a></li>
+						<li><a href="http://www.miaov.com/2013/"><img src="img/content/img1.gif" /></a></li>
+						<li><a href="http://www.miaov.com/2013/#curriculum"><img src="img/content/img2.gif" /></a></li>
+						<li><a href="http://www.miaov.com/2013/#about"><img src="img/content/img3.gif" /></a></li>
 					</ul>
 					<ol>
-						<li class="active"><a href="javascript:;"><img src="images/content/img1.gif" /></a></li>
-						<li><a href="javascript:;"><img src="images/content/img2.gif" /></a></li>
-						<li><a href="javascript:;"><img src="images/content/img3.gif" /></a></li>
+						<li class="active"><a href="javascript:;"><img src="img/content/img1.gif" /></a></li>
+						<li><a href="javascript:;"><img src="img/content/img2.gif" /></a></li>
+						<li><a href="javascript:;"><img src="img/content/img3.gif" /></a></li>
 					</ol>
 					<p>爸爸去哪儿啦~</p>
 				</div>
 			
 				<ul class="list">
 					<li>
-						<em><img src="images/content/recommend_list_ico1.gif" /> |</em>
+						<em><img src="img/content/recommend_list_ico1.gif" /> |</em>
 						<a href="http://www.miaov.com/2013">老店换新颜，丰泽园野重张亮相...</a>
 						<span>14/02/17</span>
 					</li>
 					<li>
-						<em><img src="images/content/recommend_list_ico2.gif" /> |</em>
+						<em><img src="img/content/recommend_list_ico2.gif" /> |</em>
 						<a href="http://www.miaov.com/2013">生活中哪些商品的包装有缺陷呢</a>
 						<span>14/02/17</span>
 					</li>
@@ -325,27 +325,27 @@ DD_belatedPNG.fix('*');
 						<span>14/02/17</span>
 					</li>
 					<li>
-						<em><img src="images/content/recommend_list_ico2.gif" /> |</em>
+						<em><img src="img/content/recommend_list_ico2.gif" /> |</em>
 						<a href="http://www.miaov.com/2013">生活中哪些商品的包装有缺陷呢</a>
 						<span>14/02/17</span>
 					</li>
 					<li>
-						<em><img src="images/content/recommend_list_ico1.gif" /> |</em>
+						<em><img src="img/content/recommend_list_ico1.gif" /> |</em>
 						<a href="http://www.miaov.com/2013">老店换新颜，丰泽园野重张亮相...</a>
 						<span>14/02/17</span>
 					</li>
 					<li>
-						<em><img src="images/content/recommend_list_ico2.gif" /> |</em>
+						<em><img src="img/content/recommend_list_ico2.gif" /> |</em>
 						<a href="http://www.miaov.com/2013">生活中哪些商品的包装有缺陷呢</a>
 						<span>14/02/17</span>
 					</li>
 					<li>
-						<em><img src="images/content/recommend_list_ico1.gif" /> |</em>
+						<em><img src="img/content/recommend_list_ico1.gif" /> |</em>
 						<a href="http://www.miaov.com/2013">老店换新颜，丰泽园野重张亮相...</a>
 						<span>14/02/17</span>
 					</li>
 					<li>
-						<em><img src="images/content/recommend_list_ico2.gif" /> |</em>
+						<em><img src="img/content/recommend_list_ico2.gif" /> |</em>
 						<a href="http://www.miaov.com/2013">生活中哪些商品的包装有缺陷呢</a>
 						<span>14/02/17</span>
 					</li>
@@ -369,8 +369,8 @@ DD_belatedPNG.fix('*');
 					</li>
 				</ul>
 				<div class="con">
-					<img class="tabCon2" src="images/content/123.gif" />
-					<img class="tabCon2" src="images/content/456.jpg" />
+					<img class="tabCon2" src="img/content/123.gif" />
+					<img class="tabCon2" src="img/content/456.jpg" />
 				</div>
 			</div>
 		
@@ -378,12 +378,12 @@ DD_belatedPNG.fix('*');
 				<div class="bbs">
 					<h2 class="main_title">
 						<strong>BBS <span>论坛</span></strong>
-						<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+						<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 					</h2>
 					<ol>
 						<li class="active">
 							<strong>01</strong>
-							<img src="images/content/bbs_img1.gif" alt="" />
+							<img src="img/content/bbs_img1.gif" alt="" />
 							<a href="http://www.miaov.com/2013">保你没见过的古怪餐厅</a>
 							<span>阿瑞斯</span>
 							<em>ONE</em>
@@ -391,7 +391,7 @@ DD_belatedPNG.fix('*');
 						</li>
 						<li>
 							<strong>02</strong>
-							<img src="images/content/bbs_img1.gif" alt="" />
+							<img src="img/content/bbs_img1.gif" alt="" />
 							<a href="http://www.miaov.com/2013">保你没见过的古怪餐厅</a>
 							<span>阿瑞斯</span>
 							<em>TWO</em>
@@ -399,7 +399,7 @@ DD_belatedPNG.fix('*');
 						</li>
 						<li>
 							<strong>03</strong>
-							<img src="images/content/bbs_img1.gif" alt="" />
+							<img src="img/content/bbs_img1.gif" alt="" />
 							<a href="http://www.miaov.com/2013">保你没见过的古怪餐厅</a>
 							<span>阿瑞斯</span>
 							<em>THREE</em>
@@ -407,7 +407,7 @@ DD_belatedPNG.fix('*');
 						</li>
 						<li>
 							<strong>04</strong>
-							<img src="images/content/bbs_img1.gif" alt="" />
+							<img src="img/content/bbs_img1.gif" alt="" />
 							<a href="http://www.miaov.com/2013">保你没见过的古怪餐厅</a>
 							<span>阿瑞斯</span>
 							<em>FOUR</em>
@@ -415,7 +415,7 @@ DD_belatedPNG.fix('*');
 						</li>
 						<li>
 							<strong>05</strong>
-							<img src="images/content/bbs_img1.gif" alt="" />
+							<img src="img/content/bbs_img1.gif" alt="" />
 							<a href="http://www.miaov.com/2013">保你没见过的古怪餐厅</a>
 							<span>阿瑞斯</span>
 							<em>FIVE</em>
@@ -423,7 +423,7 @@ DD_belatedPNG.fix('*');
 						</li>
 						<li>
 							<strong>06</strong>
-							<img src="images/content/bbs_img1.gif" alt="" />
+							<img src="img/content/bbs_img1.gif" alt="" />
 							<a href="http://www.miaov.com/2013">保你没见过的古怪餐厅</a>
 							<span>阿瑞斯</span>
 							<em>SIX</em>
@@ -431,7 +431,7 @@ DD_belatedPNG.fix('*');
 						</li>
 						<li>
 							<strong>07</strong>
-							<img src="images/content/bbs_img1.gif" alt="" />
+							<img src="img/content/bbs_img1.gif" alt="" />
 							<a href="http://www.miaov.com/2013">保你没见过的古怪餐厅</a>
 							<span>阿瑞斯</span>
 							<em>SEVENT</em>
@@ -443,14 +443,14 @@ DD_belatedPNG.fix('*');
 		
 		</div>
 		
-		<div class="main_ad"><a href="http://www.miaov.com/2013"><img src="images/ad/ad1.jpg" /></a></div>
+		<div class="main_ad"><a href="http://www.miaov.com/2013"><img src="img/ad/ad1.jpg" /></a></div>
 		
 		<div class="main_wrap clear">
 	
 			<div class="section fl">
 				<h2 class="main_title">
 					<strong>LIFESTYLE ADVICE <span>知道分子</span></strong>
-					<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+					<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 				</h2>
 				
 				<div class="tab">
@@ -479,31 +479,31 @@ DD_belatedPNG.fix('*');
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 老北京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>美食</span>]</em> 老北京一尊京一尊京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico2.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico2.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 老北京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>美食</span>]</em> 老北京一尊京一尊京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico2.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico2.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 老北京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 				</ul>
 				<ul class="list_section tabCon3">
@@ -515,31 +515,31 @@ DD_belatedPNG.fix('*');
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 一尊皇牛老北京</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>美食</span>]</em> 老北京一尊京一尊京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico2.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico2.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 一尊皇牛老北京</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>美食</span>]</em> 老北京一尊京一尊京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico2.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico2.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 一尊皇牛老北京</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 				</ul>
 				<ul class="list_section tabCon3">
@@ -551,31 +551,31 @@ DD_belatedPNG.fix('*');
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 皇牛一尊老北京</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>美食</span>]</em> 皇牛一尊老北京</a>
 						</span>
-						<span class="col2"><img src="images/ico2.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico2.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 皇牛一尊老北京</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>美食</span>]</em> 皇牛一尊老北京</a>
 						</span>
-						<span class="col2"><img src="images/ico2.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico2.gif" alt="" /></span>
 					</li>
 					<li>
 						<span class="col1">
 							<a href="http://www.miaov.com/2013"><em>[<span>休闲</span>]</em> 老北京一尊皇牛</a>
 						</span>
-						<span class="col2"><img src="images/ico1.gif" alt="" /></span>
+						<span class="col2"><img src="img/ico1.gif" alt="" /></span>
 					</li>
 				</ul>
 				
@@ -592,28 +592,28 @@ DD_belatedPNG.fix('*');
 			<div class="section fr">
 				<h2 class="main_title">
 					<strong>HOT <span>红人烧客</span></strong>
-					<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+					<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 				</h2>
 				<div class="hot_area">
 					<ul>
-						<li><img src="images/content/hot1.gif" alt="" /></li>
-						<li><img src="images/content/hot2.gif" alt="" /></li>
+						<li><img src="img/content/hot1.gif" alt="" /></li>
+						<li><img src="img/content/hot2.gif" alt="" /></li>
 						<li class="area1">
 							<p>
 								用户名：性感宝贝<br />
 								区域：朝阳CBD<br />
 								人气：124987
 							</p>
-							<img src="images/content/hot3.gif" alt="" />
+							<img src="img/content/hot3.gif" alt="" />
 						</li>
-						<li><img src="images/content/hot4.gif" alt="" /></li>
-						<li><img src="images/content/hot5.gif" alt="" /></li>
-						<li class="area2"><img src="images/content/hot6.gif" alt="" /></li>
-						<li class="area2"><img src="images/content/hot7.gif" alt="" /></li>
-						<li><img src="images/content/hot8.gif" alt="" /></li>
-						<li><img src="images/content/hot9.gif" alt="" /></li>
-						<li class="area2"><img src="images/content/hot10.gif" alt="" /></li>
-						<li class="area2"><img src="images/content/hot11.gif" alt="" /></li>
+						<li><img src="img/content/hot4.gif" alt="" /></li>
+						<li><img src="img/content/hot5.gif" alt="" /></li>
+						<li class="area2"><img src="img/content/hot6.gif" alt="" /></li>
+						<li class="area2"><img src="img/content/hot7.gif" alt="" /></li>
+						<li><img src="img/content/hot8.gif" alt="" /></li>
+						<li><img src="img/content/hot9.gif" alt="" /></li>
+						<li class="area2"><img src="img/content/hot10.gif" alt="" /></li>
+						<li class="area2"><img src="img/content/hot11.gif" alt="" /></li>
 					</ul>
 				</div>
 			</div>
@@ -650,23 +650,23 @@ DD_belatedPNG.fix('*');
 			<div class="section fr">
 				<h2 class="main_title">
 					<strong>100DU IN THE MEDIA <span>媒体声音</span></strong>
-					<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+					<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 				</h2>
 				<ul class="media">
 					<li>
-						<a href="http://www.miaov.com/2013"><img src="images/content/media1.gif" alt="1" /></a>
+						<a href="http://www.miaov.com/2013"><img src="img/content/media1.gif" alt="1" /></a>
 						<p>日本最大的财经杂志《钻石周刊》对100度享乐网的报道</p>
 					</li>
 					<li>
-						<a href="http://www.miaov.com/2013"><img src="images/content/media2.gif" alt="2" /></a>
+						<a href="http://www.miaov.com/2013"><img src="img/content/media2.gif" alt="2" /></a>
 						<p>视频网站100度享乐网获得网络视听许可证</p>
 					</li>
 					<li>
-						<a href="http://www.miaov.com/2013"><img src="images/content/media3.gif" alt="3" /></a>
+						<a href="http://www.miaov.com/2013"><img src="img/content/media3.gif" alt="3" /></a>
 						<p>互联网上的视频橱窗</p>
 					</li>
 					<li>
-						<a href="http://www.miaov.com/2013"><img src="images/content/media4.gif" alt="4" /></a>
+						<a href="http://www.miaov.com/2013"><img src="img/content/media4.gif" alt="4" /></a>
 						<p>享乐主义的机会</p>
 					</li>
 				</ul>
@@ -705,14 +705,14 @@ DD_belatedPNG.fix('*');
 			</p>
 		</div>
 		
-		<div class="ad_border"><a href="http://www.miaov.com/2013"><img src="images/ad/ad2.jpg" /></a></div>
+		<div class="ad_border"><a href="http://www.miaov.com/2013"><img src="img/ad/ad2.jpg" /></a></div>
 
-		<div class="side_ad"><a href="http://www.miaov.com/2013"><img src="images/ad/ad3.jpg" /></a></div>
+		<div class="side_ad"><a href="http://www.miaov.com/2013"><img src="img/ad/ad3.jpg" /></a></div>
 		
 		<div class="side_section">
 			<h2 class="main_title">
 				<strong>COUPONS <span>抢卷儿</span></strong>
-				<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+				<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 			</h2>
 			
 			<div class="wrap_section1">	
@@ -834,14 +834,14 @@ DD_belatedPNG.fix('*');
 		<div class="side_section">
 			<h2 class="main_title">
 				<strong>SHOP <span>今日推荐</span></strong>
-				<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+				<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 			</h2>
 			
 			<div class="wrap_section2">
 				
 				<ul class="pic_list">
 					<li>
-						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="images/content/pic1.gif" alt="内容图片" /></a></div>
+						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="img/content/pic1.gif" alt="内容图片" /></a></div>
 						<div class="text fr">
 							<h3><a href="http://www.miaov.com/2013">汉莱国际美食百汇</a></h3>
 							<p>
@@ -851,7 +851,7 @@ DD_belatedPNG.fix('*');
 						</div>
 					</li>
 					<li>
-						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="images/content/pic1.gif" alt="内容图片" /></a></div>
+						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="img/content/pic1.gif" alt="内容图片" /></a></div>
 						<div class="text fr">
 							<h3><a href="http://www.miaov.com/2013">汉莱国际美食百汇</a></h3>
 							<p>
@@ -861,7 +861,7 @@ DD_belatedPNG.fix('*');
 						</div>
 					</li>
 					<li>
-						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="images/content/pic1.gif" alt="内容图片" /></a></div>
+						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="img/content/pic1.gif" alt="内容图片" /></a></div>
 						<div class="text fr">
 							<h3><a href="http://www.miaov.com/2013">汉莱国际美食百汇</a></h3>
 							<p>
@@ -871,7 +871,7 @@ DD_belatedPNG.fix('*');
 						</div>
 					</li>
 					<li>
-						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="images/content/pic1.gif" alt="内容图片" /></a></div>
+						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="img/content/pic1.gif" alt="内容图片" /></a></div>
 						<div class="text fr">
 							<h3><a href="http://www.miaov.com/2013">汉莱国际美食百汇</a></h3>
 							<p>
@@ -888,11 +888,11 @@ DD_belatedPNG.fix('*');
 		<div class="side_section">
 			<h2 class="main_title">
 				<strong>360<sup>。</sup> SHOP <span>全景逛店</span></strong>
-				<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+				<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 			</h2>
 			<div class="panoramic">
 				<a href="http://www.miaov.com/2013">
-					<img src="images/content/360.gif" alt="" />
+					<img src="img/content/360.gif" alt="" />
 					<span>CBD核心商圈尊崇典范</span>
 				</a>
 			</div>
@@ -901,13 +901,13 @@ DD_belatedPNG.fix('*');
 		<div class="side_section">
 			<h2 class="main_title">
 				<strong>SHOP <span>折扣店</span></strong>
-				<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+				<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 			</h2>
 
 			<div class="wrap_section3">
 				<ul class="pic_list">
 					<li>
-						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="images/content/pic1.gif" alt="内容图片" /></a></div>
+						<div class="img fl"><a href="http://www.miaov.com/2013"><img src="img/content/pic1.gif" alt="内容图片" /></a></div>
 						<div class="text fr">
 							<h3><a href="http://www.miaov.com/2013">汉莱国际美食百汇</a></h3>
 							<p>
@@ -934,14 +934,14 @@ DD_belatedPNG.fix('*');
 		<div class="side_section">
 			<h2 class="main_title">
 				<strong>COUPONS <span>最新加盟</span></strong>
-				<a href="http://www.miaov.com/2013" title="更多"><img src="images/more.gif" alt="更多" /></a>
+				<a href="http://www.miaov.com/2013" title="更多"><img src="img/more.gif" alt="更多" /></a>
 			</h2>
 			
 			<div class="wrap_section4">
 			
 				<ul class="pic_list">
 					<li>
-						<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/pic1.gif" alt="内容图片" /></a></div>
+						<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/pic1.gif" alt="内容图片" /></a></div>
 						<div class="text">
 							<h3><a href="http://www.miaov.com/2013">汉莱国际美食百汇</a></h3>
 							<p>
@@ -951,7 +951,7 @@ DD_belatedPNG.fix('*');
 						</div>
 					</li>
 					<li>
-						<div class="img"><a href="http://www.miaov.com/2013"><img src="images/content/pic1.gif" alt="内容图片" /></a></div>
+						<div class="img"><a href="http://www.miaov.com/2013"><img src="img/content/pic1.gif" alt="内容图片" /></a></div>
 						<div class="text">
 							<h3><a href="http://www.miaov.com/2013">汉莱国际美食百汇</a></h3>
 							<p>
